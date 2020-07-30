@@ -1,2 +1,0 @@
-# markdown-challenge
-Personal profile
