@@ -4,4 +4,9 @@
 
 ##Me, in one sentence
 
-blablablalkjfsldk
+Birthday | dd/mm
+Favorite color | Red
+Favorite food | Steak
+Pinneapple on pizza | Yes/No
+
+
