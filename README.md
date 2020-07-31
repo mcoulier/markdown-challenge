@@ -31,5 +31,5 @@ A couple of years ago I was on vacation in France with my friends. After having 
 ##### TL;DR
 Don't step in hot sand.
 
-[<<previous page](https://github.com/Tessakam/markdown-challenge)  Michiel Coulier  [next page>>](https://github.com/nikkizol/markdown-challenge)
+[<<previous page](https://github.com/MatthiasNijskens/markdown-challenge) || Michiel Coulier || [next page>>](https://github.com/nikkizol/markdown-challenge)
 
